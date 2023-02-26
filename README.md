@@ -19,3 +19,7 @@ If there is any VUIDs that you have the ID of, feel free to DM us on Discord :
 ● [Twig#6799](https://discord.com/users/655453710373355553)
 
 ● [qrne#7516](https://discord.com/users/495233069234651146)
+
+# Notice
+
+- If you have a VUID that you do not want on here, please contact [999Paradise3#6740](https://discord.com/users/740554715217002599)
