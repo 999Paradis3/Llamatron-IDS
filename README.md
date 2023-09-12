@@ -8,13 +8,10 @@
 
 ● TwigXx1 (Contributor)
 
-● qrne (Contributor)
-
-
 If there is any VUIDs that you have the ID of, feel free to DM us on Discord : 
 
 # Users
-● [999Paradise3#6740](https://discord.com/users/740554715217002599) 
+● w999paradis3
 
 ● [Twig#6799](https://discord.com/users/655453710373355553)
 
