@@ -4,7 +4,7 @@
 - Contains VUIDs published by Epic Games and other Creators
 
 # Credits
-● 999Paradise3 (Owner)
+● 999Paradis3 (Owner)
 
 ● TwigXx1 (Contributor)
 
