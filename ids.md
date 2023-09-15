@@ -441,7 +441,7 @@
 |sgxgXoQBjEVFIWWmyC|  Chapter 3 Season 2 Battle Pass Trailer 
 |LLNXUBznOwPIGZJXAZ|  Chapter 3 Season 2 Story and Battle Pass Trailer
 
-## CUSTOM CODES (Credit to Twig#6799 For Finding Some IDS)
+## CUSTOM CODES (Credit to Twig For Finding Some IDS)
 | VUID | Name |
 | - | - |
 |yumgBvgaWbHFQOrfhi|  Heat Waves
@@ -484,15 +484,7 @@
 |ZwvfGAUqxBuoudmUFR|  My Little Pony - The Magic Of Friendship Grows 
 |dLIsPAZkAuaYiXNNGh|  My Little Pony - Ballad Of The Crystal Ponies Song
 |RutjJQEMiAAgWuAyXp|  My Little Pony - IDK
-
-## Custom VUID's from qrne#7516 
-| VUID | Name |
-| - | - |
 |huLGWtDWQVxjzyNLFO|  Master of Puppets
 |SLpOvCeMsULskQTpRY|  Metamorphosis
 |PgIPZEQstbBoIPXFdM|  Until I Found You
-
-## Custom VUID's from Bernie Bare
-| VUID | Name |
-| - | - |
 |CWHRjmDXnmjVGwqDMj|  Call Me Whenever Juice WRLD
