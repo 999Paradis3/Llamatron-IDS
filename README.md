@@ -8,14 +8,16 @@
 
 ● TwigXx1 (Contributor)
 
-If there is any VUIDs that you have the ID of, feel free to DM us on Discord : 
+●Chaos Royale Map
+
+●Bernie Bare
+
+If there is any VUIDs that you have the ID of, feel free to DM us on Discord: 
 
 # Users
 ● w999paradis3
 
 ● [Twig#6799](https://discord.com/users/655453710373355553)
-
-● [qrne#7516](https://discord.com/users/495233069234651146)
 
 # Notice
 
